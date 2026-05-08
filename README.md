@@ -253,8 +253,6 @@ in browser.
 
 # HTML Report Screenshot
 
-Place your HTML report screenshot inside the `screenshots/` folder.
-
 Example:
 
 ![HTML Report](screenshots/html-report.PNG)
@@ -293,8 +291,6 @@ in browser.
 ---
 
 # Allure Report Screenshot
-
-Place your Allure report screenshot inside the `screenshots/` folder.
 
 Example:
 
