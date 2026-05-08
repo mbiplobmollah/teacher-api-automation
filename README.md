@@ -257,9 +257,7 @@ Place your HTML report screenshot inside the `screenshots/` folder.
 
 Example:
 
-```markdown
 ![HTML Report](screenshots/html-report.PNG)
-```
 
 
 ---
@@ -300,9 +298,7 @@ Place your Allure report screenshot inside the `screenshots/` folder.
 
 Example:
 
-```markdown
 ![Allure Report](screenshots/allure-report.PNG)
-```
 
 ---
 
