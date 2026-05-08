@@ -258,7 +258,7 @@ Place your HTML report screenshot inside the `screenshots/` folder.
 Example:
 
 ```markdown
-![HTML Report](screenshots/html-report.png)
+![HTML Report](screenshots/html-report.PNG)
 ```
 
 
@@ -301,21 +301,11 @@ Place your Allure report screenshot inside the `screenshots/` folder.
 Example:
 
 ```markdown
-![Allure Report](screenshots/allure-report.png)
+![Allure Report](screenshots/allure-report.PNG)
 ```
 
 ---
 
-# Reusable Utilities
-
-The framework uses reusable helper functions:
-
-| File | Purpose |
-|---|---|
-| auth.py | Token generation |
-| payloads.py | Dynamic payload generation |
-| assertions.py | Reusable assertions |
-| conftest.py | Shared fixtures |
 
 ---
 
